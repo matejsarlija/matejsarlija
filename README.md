@@ -1,6 +1,6 @@
 - 🙇🏼 Hi, I’m @matejsarlija
 - 👀 I’m interested in remote job opportunities within small teams
 - (so I can give back to my rural community)
-- 🚵🏼‍♂️ Currently going through [Ruby Under A Microscope🔬]
+- 🚵🏼‍♂️ Currently going through [to be announced]
 - 🐛 Not married to a single language
 - 📫 matejsarlija1@gmail.com

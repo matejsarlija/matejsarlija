@@ -2,4 +2,4 @@
 
 - 📫 matejsarlija1@gmail.com
 
-Learning all over the place.
+Trying to learn.

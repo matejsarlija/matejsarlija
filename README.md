@@ -2,4 +2,4 @@
 
 - 📫 matejsarlija1@gmail.com
 
-Trying to learn.
+Student.

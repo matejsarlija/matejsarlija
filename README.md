@@ -2,4 +2,4 @@
 
 - 📫 matejsarlija1@gmail.com
 
-Learner.
+Learner. Taking no shortcuts.

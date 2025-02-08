@@ -1,4 +1,4 @@
-- 🙇🏼 Hi, I’m @matejsarlija
+- 🙇🏼 Hi, I’m Matej
 
 - 📫 matejsarlija1@gmail.com
 

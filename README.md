@@ -4,4 +4,4 @@
 
 - ~ "I look for value, wherever it can be found."
 
-- I can remember the the URL for Google's Colab without google-ing.
+- I can remember the URL for Google's Colab without google-ing.

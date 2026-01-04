@@ -2,5 +2,6 @@
 
 - 📫 matejsarlija1@gmail.com
 
-- Learner. ~ "I look for value, wherever it can be found."
+- Learner.
+- ~ "I look for value, wherever it can be found."
 

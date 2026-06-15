@@ -4,5 +4,5 @@
 
 - Learner.
 - ~ "I look for value, wherever it can be found."
-- Working on a [teletext](https://en.wikipedia.org/wiki/Teletext) language model, because why not.
+- Working on a [teletext](https://en.wikipedia.org/wiki/Teletext) based transformer, because why not.
 

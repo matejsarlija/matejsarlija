@@ -4,5 +4,5 @@
 
 - Learner.
 - ~ "I look for value, wherever it can be found."
-- 2026 is the year of the harness 🐎
+- Working on a [teletext](https://en.wikipedia.org/wiki/Teletext) language model, because why not.
 

@@ -4,5 +4,3 @@
 
 - Learner.
 - ~ "I look for value, wherever it can be found."
-- Working on a [teletext](https://en.wikipedia.org/wiki/Teletext)-based transformer, because why not.
-
